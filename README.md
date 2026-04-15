@@ -57,3 +57,10 @@ The system works by:
 - `possible_diseases(PatientSymptoms, Results)`
 - `diagnose(PatientSymptoms, Disease, Recommendation)`
 - `treatment_for(Disease, Treatment)
+
+## How to Run
+
+Open the file in a Prolog environment such as **SWI-Prolog**.
+Load the file:
+```prolog
+['main.pl'].
